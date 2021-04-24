@@ -15,7 +15,7 @@ chapters/
 1. Clone/download this repository and navigate to it on your local filesystem.
 1. Right-click the folder and "Open in Terminal/PowerShell" (based on your OS).
 1. Launch Probmods.jl by running: `docker-compose up` (keep this window open).
-1. Open your browser and navigate to http://localhost:43655/lab
+1. Open your browser and navigate to [http://localhost:7655/lab][localhost]
 
 ### Docker downloads
 
@@ -24,3 +24,5 @@ chapters/
 - **Linux (Ubuntu)**: https://docs.docker.com/engine/install/ubuntu/
   - You'll need to manually install Docker Compose as well. (DigitalOcean
     often has good guides for this.)
+
+[localhost]: http://localhost:7655/lab
